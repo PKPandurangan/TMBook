@@ -1,0 +1,28 @@
+PODS:
+  - ASJCollectionViewFillLayout (2.0)
+  - LazyPDFKit (1.0.4)
+  - MUKMediaGallery (2.1.6):
+    - MUKMediaGallery/ImageScrollView (= 2.1.6)
+    - MUKToolkit (~> 1.1)
+    - XCDYouTubeKit (~> 2.0)
+  - MUKMediaGallery/ImageScrollView (2.1.6):
+    - MUKToolkit (~> 1.1)
+    - XCDYouTubeKit (~> 2.0)
+  - MUKToolkit (1.1.4)
+  - XCDYouTubeKit (2.5.3)
+
+DEPENDENCIES:
+  - ASJCollectionViewFillLayout
+  - LazyPDFKit (~> 1.0.4)
+  - MUKMediaGallery (~> 2.0)
+
+SPEC CHECKSUMS:
+  ASJCollectionViewFillLayout: bdc25a55800b08efa0dc6b900d2427e692fcc883
+  LazyPDFKit: f0d264205b9ef177e68fda50cd0e908742fd4c35
+  MUKMediaGallery: f25601f37b55c63c1092c3b4974481b9e4bff941
+  MUKToolkit: 68d80c87be918154bfd21e64158b1580c6dd2472
+  XCDYouTubeKit: 90690f9e3523735dc93b8024269d991b0cfffe78
+
+PODFILE CHECKSUM: 4385f4a44902bdcc126b92fdf9575f683ef8bcb9
+
+COCOAPODS: 1.0.1

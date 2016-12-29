@@ -1,0 +1,8 @@
+platform :ios, ‘9.0’
+use_frameworks!
+
+target 'BookShelfExample' do
+	pod 'LazyPDFKit', '~> 1.0.4'
+    pod 'MUKMediaGallery', '~> 2.0'
+    pod 'ASJCollectionViewFillLayout'
+end

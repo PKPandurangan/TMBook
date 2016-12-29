@@ -1,0 +1,6 @@
+framework module ASJCollectionViewFillLayout {
+  umbrella header "ASJCollectionViewFillLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
